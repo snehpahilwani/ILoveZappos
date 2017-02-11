@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zappos</string>
+    <string name="action_settings">Settings</string>
+    <integer name="swing_anim_time">500</integer>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="send">Send via...</string>
+</resources>
